@@ -1,4 +1,6 @@
-# ipfs-upload-proxy
+# henland-nftstorage
+
+> NFT-Storage 存储服务接口
 
 ## 1、基本信息
 该服务通过 NFT-Storage 存储服务；
